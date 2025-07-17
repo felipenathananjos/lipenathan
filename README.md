@@ -1,11 +1,11 @@
 <h1 align="center">Hello There 👋, I'm Felipe Nathan dos Anjos</h1>
 <h3 align="center">Mobile Developer, Teacher and Kotlin enthusiast</h3>
 
-- 🔭 I’m currently working on [Expenses](https://github.com/lipenathan/expenses)
+- 🔭 I’m currently working on [Expenses](https://github.com/felipenathananjos/expenses)
 
 - 🌱 I’m currently learning **Flutter and Swift**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lipenathan?tab=repositories](https://github.com/lipenathan?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/lipenathan?tab=repositories](https://github.com/felipenathananjos?tab=repositories)
 
 - 📫 How to reach me **felipenatthan@gmail.com**
 
