@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter and Swift**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lipenathan?tab=repositories](https://github.com/felipenathananjos?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/felipenathananjos?tab=repositories](https://github.com/felipenathananjos?tab=repositories)
 
 - 📫 How to reach me **felipenatthan@gmail.com**
 
