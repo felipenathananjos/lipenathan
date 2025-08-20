@@ -1,7 +1,7 @@
 <h1 align="center">Hello There 👋, I'm Felipe Nathan dos Anjos</h1>
 <h3 align="center">Mobile Developer, Teacher and Kotlin enthusiast</h3>
 
-- 🔭 I’m currently working on [Team Up](https://github.com/felipenathananjos/teamup)
+- 🔭 I’m currently working on [Auto Care](https://github.com/felipenathananjos/auto-care)
 
 - 🌱 I’m currently learning **Flutter and Swift**
 
